@@ -3,6 +3,6 @@ smooth scrolling ✅
     attach locomotive scroll min js ✅
     some code from loco github for js ✅
 
-gsap
-    attach gsap
+gsap attach gsap
 scrolltrigger
+built ui based web page
